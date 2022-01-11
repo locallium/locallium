@@ -1,0 +1,3 @@
+- Hello, I am LocalScript. I am the founder of "Script Projects" project management company. You may join our discord server via our website (profile).
+- Feel free to check out my projects. All of them may be used unless stated otherwise. Most of my projects, like Techno are private to prevent any unappropriate usage of the source code.
+- You may message me for more information!
