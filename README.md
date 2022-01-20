@@ -10,25 +10,28 @@
 3. C++
 4. Kotlin
 5. Java
+
 - Intermediate
-1. TypeScript
-2. Python
-3. Lua
-4. CSS
-5. SQL
+7. TypeScript
+8. Python
+9. Lua
+10. CSS
+11. SQL
+
 - Experienced
-1. JavaScript
-2. HTML
+7. JavaScript
+8. HTML
 
 ### Languages
 
 - Intermediate
 1. German
 2. Ukrainian
+
 - Experienced
-1. Latvian
-2. Russian
-3. English
+4. Latvian
+5. Russian
+6. English
 
 ### My projects
 
