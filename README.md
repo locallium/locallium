@@ -12,15 +12,15 @@
 5. Java
 
 - Intermediate
-7. TypeScript
-8. Python
-9. Lua
-10. CSS
-11. SQL
+6. TypeScript
+7. Python
+8. Lua
+9. CSS
+10. SQL
 
 - Experienced
-7. JavaScript
-8. HTML
+11. JavaScript
+12. HTML
 
 ### Languages
 
