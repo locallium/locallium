@@ -26,12 +26,11 @@
 
 - Intermediate
 1. German
-2. Ukrainian
 
 - Experienced
-4. Latvian
-5. Russian
-6. English
+3. Latvian
+4. Russian
+5. English
 
 ### My projects
 
