@@ -36,7 +36,7 @@
 
 - Feel free to check out my projects. All of them may be used unless stated otherwise. Most of my projects, like Techno are private to prevent any unappropriate usage of the source code.
 
-1. Techno (incl. Dev and Testers)
+1. Techno
 
 ### Inquiries, issues
 
