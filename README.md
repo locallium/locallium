@@ -1,6 +1,6 @@
-# LocalScript / WolfikBlast
+# Locallium
 
-- Hello, I am LocalScript. I am the CED of "Script Projects". You may join our discord server via our website (profile).
+- Hello, I am Locallium. I am the CED of "Script Projects". You may join our discord server via our website (profile).
 
 ### Programming languages
 
