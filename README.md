@@ -1,51 +1,55 @@
 # Locallium
+Hello, I am **Locallium** / **Locallia**. I originate and also currently live in Riga, Latvia, a small country in the northeast of Europe. Currently I am studying engineering including physics and chemistry. A few years ago I taught myself programming, as well as a few other useful skills within IT. Back then I had a dream of being able to create absolutely everything I wanted. As my skills grew, one of my friends started giving me ideas, in the end we decided to create a dev project together.
 
-- Hello, I am Locallium / Locallia. I originate and also currently live in Riga, Latvia, a small country in the northeast of Europe. Currently I am studying engineering including physics and chemistry. A few years ago I taught myself programming, as well as a few other useful skills I could use to make some of my own ideas reality. With all that together with the help of a dear friend of mine, we are happy to at least try bringing some of our projects to life. We decided to create a parent project, which unironically is named "Script Projects".
+## Script Projects
+The first ideas behind Script Projects started to appear back in 2020. Back then Script Projects went through a few renamings, we were named Team Script, Script Gen, and only then Script Projects. The whole idea stayed the same along the timeline - Script Projects is a parent of many projects we develop within. As unfortunate as it was, circumstances forbid us to work efficiently, hence the small amount we have right now (this we hope to change). We suffered a few discontinuations of ideas, we suffered lack of motivation, lack of creativity, also capacity to actually develop those projects. Taking a fresh start on an almost blank sheet of paper, we are planning a few new projects at the moment, brainstorming to our fullest, planning the capacities and workflow, promising the desired output this time. You may feel free to follow our social media, where updates, progress, and other news will be published regarding our newest projects.
 
-### Programming languages
+## About me
+Putting aside the idea of Script Projects, I would like to share a bit about my skills I have developed in this time.
+### Programming languages and skills
 
-- Experienced
-1. JavaScript
-2. HTML (I know, it is not a language, but still)
+- **Experienced**
+1. Web development (HTML, CSS)
+2. JavaScript
   
-- Intermediate
-3. TypeScript
-4. Python
-5. CSS
-6. SQL (also not a lang, but still heh)
+- **Intermediate**
+3. Python
+4. C++
+5. Database management (SQL)
+6. 3D modelling
+7. 2D graphics
+8. SFX production / composition
   
-- Beginner
-7. PHP
-8. C#
-9. C++
-10. Kotlin
-11. Java
+  
+- **Beginner**
+9. Java
+10. Game development
 
 
 ### Languages
 
-- Native
+- **Native**
 1. Latvian (C1/C2)
 2. Russian (C1/C2)
-- Fluent
+- **Fluent**
 3. English (B2/C1)
-- Intermediate
+- **Intermediate**
 4. German (B1)
-- Beginner
+- **Beginner**
 5. Latin (A1)
 
 ### My projects
 
-- Currently we have decided to discontinue a few projects that used to be in development within Script Projects. This does mean that the amount of projects currently available has dropped significantly. All other projects that we have decided to keep are now undergoing updates and upgrades. If you wish to stay updated, feel free to follow the official social media of Script Projects.
+As described within Script Projects, we decided to discontinue some projects that were in the stage of development within Script Projects. Thus the number dropped significiantly. All other kept projects are nwo undergoing updates and upgrades. Updates will be posted on our social media.
 
-1. Techno - undergoing severe updates
-2. PrismAI - discontinued
-3. Survival Extremes - discontinued
+1. Techno -> Automaton - undergoing severe updates.
+2. PrismAI - _discontinued_.
+3. Survival Extremes - _discontinued_.
 
-4. Project [undisclosed] - there is another project we had in the concept stage that we decided to partially/completely rewrite. We are eager to provide more updates as soon as we can!
+4. Project X - concept production stage, currently being written. We are eager to provide more updates as soon as we can!
 
 ### Inquiries, issues
 
-- If you have any issues, inquiries, suggestions, etc., feel free to either create an issue on this repository, ~~e-mail me via localscript@scriptprojects.cf~~ (due to the discontinuation of the website, the domained e-mails are currently having trouble being contacted, please refrain from contacting us on these e-mails for the meantime), direct message us on any social media of Script Projects, or via Discord - `locallium`.
+- If you have any issues, inquiries, suggestions, etc., feel free to either create an issue on this repository, e-mail me via `scriptprojectsteam@gmail.com`, direct message us on any social media of Script Projects, or via Discord - `@locallium`.
 
-Have a nice day! 😉
+Hoping to see you back soon! 😉
